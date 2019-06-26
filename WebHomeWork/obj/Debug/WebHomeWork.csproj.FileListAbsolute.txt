@@ -1,0 +1,15 @@
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\bin\Debug\WebHomeWork.exe.config
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\bin\Debug\WebHomeWork.exe
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\bin\Debug\WebHomeWork.pdb
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.csprojAssemblyReference.cache
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\MainWindow.g.cs
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\App.g.cs
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork_MarkupCompile.cache
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork_MarkupCompile.lref
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\MainWindow.baml
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.g.resources
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.Properties.Resources.resources
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.csproj.GenerateResource.cache
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.csproj.CoreCompileInputs.cache
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.exe
+c:\users\ерика.corp.000\source\repos\WebHomeWork\WebHomeWork\obj\Debug\WebHomeWork.pdb
